@@ -12,6 +12,7 @@
     "name": "Dev Labs",
     "url": "http://www.google.com"
   },
+  "fullscreen":false,
   "locales": {
     "en-US": {
       "name": "Video App",
