@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "name": "Video App",
+  "description": "App with just a video",
+  "type": "web",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/icons/56.png",
+    "112": "/icons/112.png"
+  },
+  "developer": {
+    "name": "Dev Labs",
+    "url": "http://www.google.com"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Video App",
+      "subtitle": "Short description for the user",
+      "description": "Brief description of your app"
+    }
+  },
+  "default_locale": "en-US"
+}
