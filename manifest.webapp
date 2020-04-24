@@ -1,24 +1,142 @@
 {
-  "version": "1.0.0",
-  "name": "Video App",
-  "description": "App with just a video",
-  "type": "web",
-  "launch_path": "/index.html",
-  "icons": {
-    "56": "/icons/56.png",
-    "84": "/icons/84.png"
-  },
-  "developer": {
-    "name": "Dev Labs",
-    "url": "http://www.google.com"
-  },
-  "fullscreen":false,
-  "locales": {
-    "en-US": {
-      "name": "Video App",
-      "subtitle": "Short description for the user",
-      "description": "Brief description of your app"
-    }
-  },
-  "default_locale": "en-US"
+   "name":"Video app",
+   "description":"Video app: If you are reading this this paragraph is written to check the description in client if this goes out of view scroll should be enabled to read more.",
+   "subtitle":"This is test App",
+   "theme":"#ff8c00",
+   "display":"Video app",
+   "version":"1.0.0",
+   "launch_path":"/index.html",
+   "type":"web",
+   "origin":"app://video app.com",
+   "icons":{
+      "56":"/icons/56.png",
+      "84":"/icons/84.png"
+   },
+   "developer":{
+      "name":"Test",
+      "url":"http://www.test.com"
+   },
+   "fullscreen":false,
+   "permissions":{
+		"contacts": {
+			"description": "Required for autocompletion in the share screen",
+			"access": "readcreate"
+		},
+		"alarms": {
+			"description": "Required to schedule notifications"
+		}
+   },
+   "default_locale":"en-US",
+   "locales":{
+      "en-US":{
+         "name":"Sample",
+         "description":"Description in English language",
+         "subtitle":"Subtitle in English language"
+      },
+      "hi-IN":{
+         "name":"नमूना ",
+         "description":"Description in Hindi language",
+         "subtitle":"Subtitle in Hindi language"
+      },
+      "as-IN":{
+         "name":"নমুনা",
+         "description":"Description in Assamese language",
+         "subtitle":"Subtitle in Assamese language"
+      },
+      "bn-IN":{
+         "name":"নমুনা",
+         "description":"Description in Bangla language",
+         "subtitle":"Subtitle in Bangla language"
+      },
+      "gu-IN":{
+         "name":"નમનૂા",
+         "description":"Description in Gujarati language",
+         "subtitle":"Subtitle in Gujarati language"
+      },
+      "kn-IN":{
+         "name":"ಮಾದರಿ",
+         "description":"Description in Kannada language",
+         "subtitle":"Subtitle in Kannada language"
+      },
+      "ks-IN":{
+         "name":"",
+         "description":"Description in Kashmiri language",
+         "subtitle":"Subtitle in Kashmiri language"
+      },
+      "ml-IN":{
+         "name":"സാമ്പിൾ",
+         "description":"Description in Malayalam language",
+         "subtitle":"Subtitle in Malayalam language"
+      },
+      "mr-IN":{
+         "name":"नमुना",
+         "description":"Description in Marathi language",
+         "subtitle":"Subtitle in Marathi language"
+      },
+      "ne-IN":{
+         "name":"नमूना",
+         "description":"Description in Nepali language",
+         "subtitle":"Subtitle in Nepali language"
+      },
+      "or-IN":{
+         "name":"ସାମ୍ପ୍ଲେ",
+         "description":"Description in Oriya language",
+         "subtitle":"Subtitle in Oriya language"
+      },
+      "pa-IN":{
+         "name":"ਨਮੂਨਾ",
+         "description":"Description in Punjabi language",
+         "subtitle":"Subtitle in Punjabi language"
+      },
+      "sa-IN":{
+         "name":"संपले",
+         "description":"Description in Sanskrit language",
+         "subtitle":"Subtitle in Sanskrit language"
+      },
+      "sd-IN":{
+         "name":"ن مون ي",
+         "description":"Description in Sindhi language",
+         "subtitle":"Subtitle in Sindhi language"
+      },
+      "ta-IN":{
+         "name":"மாதிரி",
+         "description":"Description in Tamil language",
+         "subtitle":"Subtitle in Tamil language"
+      },
+      "te-IN":{
+         "name":"నమూనా",
+         "description":"Description in Telegu language",
+         "subtitle":"Subtitle in Telegu language"
+      },
+      "und-bod":{
+         "name":"नमूना",
+         "description":"Description in Bodo language",
+         "subtitle":"Subtitle in Bodo language"
+      },
+      "mai-IN":{
+         "name":"नमूना",
+         "description":"Description in Maithili language",
+         "subtitle":"Subtitle in Maithili language"
+      },
+      "kok-IN":{
+         "name":"नमुनो",
+         "description":"Description in Konkani language",
+         "subtitle":"Subtitle in Konkani language"
+      },
+      "mni-IN":{
+         "name":"নমুনা",
+         "description":"Description in Manipuri language",
+         "subtitle":"Subtitle in Manipuri language"
+      },
+      "doi-IN":{
+         "name":"संपले",
+         "description":"Description in Dogri language",
+         "subtitle":"Subtitle in Dogri language"
+      },
+      "ur-IN":{
+         "name":"ن مون ہ",
+         "description":"Description in Urdu language",
+         "subtitle":"Subtitle in Urdu language"
+      }
+   }
 }
