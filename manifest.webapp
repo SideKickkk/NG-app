@@ -6,6 +6,7 @@
    "display":"Video app",
    "version":"1.0.0",
    "launch_path":"/index.html",
+   "origin":"app://videoapp.com",
    "type":"web",
    "icons":{
       "56":"/icons/56.png",
