@@ -30,7 +30,7 @@
    "default_locale":"en-US",
    "locales":{
       "en-US":{
-         "name":"Sample",
+         "name":"Video app",
          "description":"Description in English language",
          "subtitle":"Subtitle in English language"
       },
