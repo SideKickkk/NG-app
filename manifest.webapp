@@ -5,12 +5,12 @@
    "theme":"#ff8c00",
    "display":"Video app",
    "version":"1.0.0",
-   "launch_path":"/index.html",
+   "launch_path":"/VideoApp/index.html",
    "origin":"app://videoapp.com",
    "type":"web",
    "icons":{
-      "56":"/icons/56.png",
-      "84":"/icons/84.png"
+      "56":"/VideoApp/icons/56.png",
+      "84":"/VideoApp/icons/84.png"
    },
    "developer":{
       "name":"Test",
