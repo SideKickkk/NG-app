@@ -1,5 +1,5 @@
 {
-   
+   "name":"Video app",
    "description":"Video app: If you are reading this this paragraph is written to check the description in client if this goes out of view scroll should be enabled to read more.",
    "subtitle":"This is test App",
    "theme":"#ff8c00",
@@ -14,7 +14,7 @@
       "128":"/VideoApp/icons/128.png"
    },
    "developer":{
-      "name":"Test",
+      "name":"",
       "url":"http://www.test.com"
    },
    "fullscreen":false,
