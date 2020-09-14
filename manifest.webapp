@@ -5,13 +5,13 @@
    "theme":"#ff8c00",
    "display":"NG app",
    "version":"1.0.0.0",
-   "launch_path":"/VideoApp/index.html",
+   "launch_path":"/NG-app/index.html",
    "origin":"app://NGapp.com",
    "type":"web",
    "icons":{
-      "56":"/VideoApp/icons/2_56.png",
-      "84":"/VideoApp/icons/2_84.png",
-      "128":"/VideoApp/icons/2_128.png"
+      "56":"/NG-app/icons/2_56.png",
+      "84":"/NG-app/icons/2_84.png",
+      "128":"/NG-app/icons/2_128.png"
    },
    "developer":{
       "name":"test",
