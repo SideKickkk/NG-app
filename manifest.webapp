@@ -1,12 +1,12 @@
 {
-   "name":"Video app",
-   "description":"Video app: If you are reading this this paragraph is written to check the description in client if this goes out of view scroll should be enabled to read more.",
+   "name":"NG app",
+   "description":"NG app: If you are reading this this paragraph is written to check the description in client if this goes out of view scroll should be enabled to read more.",
    "subtitle":"This is test App",
    "theme":"#ff8c00",
-   "display":"Video app",
-   "version":"2.0.1.1",
+   "display":"NG app",
+   "version":"1.0.0.0",
    "launch_path":"/VideoApp/index.html",
-   "origin":"app://videoapp.com",
+   "origin":"app://NGapp.com",
    "type":"web",
    "icons":{
       "56":"/VideoApp/icons/2_56.png",
