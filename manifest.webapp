@@ -4,14 +4,14 @@
    "subtitle":"This is test App",
    "theme":"#ff8c00",
    "display":"Video app",
-   "version":"1.0.0",
+   "version":"2.0.1.1",
    "launch_path":"/VideoApp/index.html",
    "origin":"app://videoapp.com",
    "type":"web",
    "icons":{
-      "56":"/VideoApp/icons/56.png",
-      "84":"/VideoApp/icons/84.png",
-      "128":"/VideoApp/icons/128.png"
+      "56":"/VideoApp/icons/2_56.png",
+      "84":"/VideoApp/icons/2_84.png",
+      "128":"/VideoApp/icons/2_128.png"
    },
    "developer":{
       "name":"test",
