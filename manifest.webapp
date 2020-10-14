@@ -1,17 +1,17 @@
 {
    "name":"NG app",
-   "description":"NG app : If you are reading this this paragraph is written to check the description in client if this goes out of view scroll should be enabled to read more.",
-   "subtitle":"This is test App ",
+   "description":"NG app 2: If you are reading this this paragraph is written to check the description in client if this goes out of view scroll should be enabled to read more.",
+   "subtitle":"This is test App 2",
    "theme":"#ff8c00",
-   "display":"NG app",
-   "version":"1.0.0.0",
+   "display":"NG app 2",
+   "version":"2.0.1.0",
    "launch_path":"/NG-app/index.html",
    "origin":"app://NGapp.com",
    "type":"web",
    "icons":{
-      "56":"/NG-app/icons/56.png",
-      "84":"/NG-app/icons/84.png",
-      "128":"/NG-app/icons/128.png"
+      "56":"/NG-app/icons/2_56.png",
+      "84":"/NG-app/icons/2_84.png",
+      "128":"/NG-app/icons/2_128.png"
    },
    "developer":{
       "name":"test",
@@ -30,7 +30,7 @@
    "default_locale":"en-US",
    "locales":{
       "en-US":{
-         "name":"NG-app",
+         "name":"NG-app 2",
          "description":"Description in English language",
          "subtitle":"Subtitle in English language"
       },
