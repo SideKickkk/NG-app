@@ -31,7 +31,7 @@
    "locales":{
       "en-US":{
          "name":"NG-app",
-         "description":"Description in English; language !@#$%^&*()_+{[]}|\,<>./?",
+         "description":"Description in English; language !@#$%^&*()_+{[]}|,<>./?",
          "subtitle":"Subtitle in English language"
       },
       "hi-IN":{
