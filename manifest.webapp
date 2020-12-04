@@ -1,7 +1,7 @@
 {
    "name":"Duplicate!@#$%^&*()_+",
-   "description":"NG app !@#$%^&*()_+{[]}|\,<>./? : 123 If you are reading; this this paragraph is written to check the description in client if this goes out of view scroll should be enabled to read more.",
-   "subtitle":"This is test App !@#$%^&*()_+{[]}|\;,<>./?",
+   "description":"NG app !@#$%^&*()_+{[]}|<>./? : 123 If you are reading; this this paragraph is written to check the description in client if this goes out of view scroll should be enabled to read more.",
+   "subtitle":"This is test App !@#$%^&*()_+{[]}|;,<>./?",
    "theme":"#ff8c00",
    "display":"NG app",
    "version":"1.0.1.0",
