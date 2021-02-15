@@ -1,12 +1,12 @@
 {
-   "name":"uplicate",
-   "description":"NG app 123 If you are reading; this this paragraph is written to check the description in client if this goes out of view scroll should be enabled to read more.",
-   "subtitle":"App asdasf",
+   "name":"Video Sample app",
+   "description":"Video Sample app If you are reading; this this paragraph is written to check the description in client if this goes out of view scroll should be enabled to read more.",
+   "subtitle":"This is app subtitle",
    "theme":"#ff8c00",
-   "display":"NG app",
-   "version":"1.0.1.0",
+   "display":"Video Sample app",
+   "version":"1.0.0.0",
    "launch_path":"/NG-app/index.html",
-   "origin":"app://NGapp.com",
+   "origin":"app://Myvideoapp.com",
    "type":"web",
    "icons":{
       "56":"/NG-app/icons/56.png",
@@ -30,7 +30,7 @@
    "default_locale":"en-US",
    "locales":{
       "en-US":{
-         "name":"NG-app",
+         "name":"My Video app",
          "description":"Description in English; language !@#$%^&*()_+{[]}|,<>./?",
          "subtitle":"Subtitle in English language"
       },
